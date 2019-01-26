@@ -1,0 +1,1 @@
+convert *.jpg foo.pdf
